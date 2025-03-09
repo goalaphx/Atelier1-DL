@@ -11,6 +11,8 @@ This project encompasses two distinct parts: Regression analysis applied to stoc
 
 This section focuses on predicting stock closing prices using historical data and deep learning regression techniques.
 
+dataset link: https://www.kaggle.com/datasets/dgawlik/nyse
+
 ### Overview
 
 The goal is to develop a regression model that accurately predicts the closing price of a stock based on its historical performance.  This involves data preprocessing, model training, evaluation, and visualization to understand model performance and stock trends.
@@ -66,6 +68,9 @@ The visualizations show general trends and the model's ability to capture price 
 ## Part 2: Deep Learning Classification Project
 
 This section covers the implementation of a deep learning model for a classification task.
+
+dataset link: https://www.kaggle.com/datasets/shivamb/machine-predictive-
+maintenance-classification
 
 ### Overview
 
