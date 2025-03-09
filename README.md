@@ -1,7 +1,7 @@
 # Atelier 1 Deep Learning
 
 Written by ID LAHCEN El Mahdi
-Supervised by Prof. EL ACHAAK Lotfi
+& Supervised by Prof. EL ACHAAK Lotfi
 
 # Deep Learning Project: Stock Market Prediction and Classification
 
